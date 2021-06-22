@@ -38,7 +38,7 @@ function getMinPrice(startPlace, endPlace, startDate) {
     json: true,
     headers: {
       'x-rapidapi-host': 'skyscanner-skyscanner-flight-search-v1.p.rapidapi.com',
-      'x-rapidapi-key': '********************************************'
+      'x-rapidapi-key': 'e81d3e77de7b44d79b2117826855227d'
     }
   }
   
