@@ -30,7 +30,7 @@ function getCameraData() {
     qs: {lang: 'en', show: 'webcams:image'},
     headers: {
       'x-rapidapi-host': 'webcamstravel.p.rapidapi.com',
-      'x-rapidapi-key': '************'
+      'x-rapidapi-key': 'e81d3e77de7b44d79b2117826855227d'
     }
   };
 
